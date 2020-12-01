@@ -5,6 +5,7 @@ My name is Andrew Rady ([@nodevemberJS][twitter] on Twitter). I'm a full stack d
 I have a [blog](https://andrewrady.github.io/) where I write about different side projects and what I've learned from. I have also contributed to [RIMdev](https://rimdev.io/authors/andrew-rady/) where I have mainly wrote about my front end experiences.
 
 <hr>
+
 ### Hobbies
 
 - Coding 
