@@ -6,6 +6,7 @@ I have a [blog](https://andrewrady.github.io/) where I write about different sid
 
 <hr>
 ### Hobbies
+
 - Coding 
 - Running 
 - Camping
