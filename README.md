@@ -2,7 +2,7 @@
 
 My name is Andrew Rady, [@nodevemberJS](https://twitter.com/nodevemberJS) on Twitter. I'm a full stack developer who has spent the last few years as a front end developer working with vue.js. Now I'm working as a backend developer with .NET technologies at Ritter Insurance Marketing. In my freetime I dabble with Rails and I also create software for different martial arts needs like custom cms and an online tournament scheduler.
 
-I have a [blog](https://andrewrady.github.io/) where I write about different side projects and what I've learned from. I have also contributed to [RIMdev](https://rimdev.io/authors/andrew-rady/) where I have mainly wrote about my front end experiences.
+I have a [blog](https://andrewrady.github.io/) where I write about different side projects and what I've learned from them. I have also contributed to [RIMdev](https://rimdev.io/authors/andrew-rady/) blog where I have mainly wrote about my front end work.
 
 <hr>
 
