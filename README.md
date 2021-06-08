@@ -8,6 +8,7 @@ I have a [blog](https://andrewrady.github.io/) where I write about different sid
 
 ### Hobbies
 
+- Long walks on the beach
 - Coding 
 - Running 
 - Camping
