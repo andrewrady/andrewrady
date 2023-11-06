@@ -1,36 +1,18 @@
 ### Hi there 👋
 
-My name is Andrew Rady, [@nodevemberJS](https://twitter.com/nodevemberJS) on Twitter. I'm a full stack developer who has spent the last few years as a front end developer working with vue.js. Now I'm working as a backend developer with .NET technologies at Ritter Insurance Marketing. In my freetime I dabble with Rails and I also create software for different martial arts needs like custom crms and an online tournament scheduler.
+:rocket: My name is Andrew Rady, [@nodevemberJS](https://twitter.com/nodevemberJS) on Twitter. I'm a software engineer who enjoys building application to solve business and people problems.
+I primarly work with C#, Typescript, and have experience in Azure here at RItter Insurance Marketing. 
 
-I have a [blog](https://andrewrady.github.io/) where I write about different side projects and what I've learned from them. I have also contributed to [RIMdev](https://rimdev.io/authors/andrew-rady/) blog where I have mainly wrote about my front end work.
+:microscope: My main personal project is to build a workable development enviornment for C# in Neovim. I'll be documenting the setup in my blog.
 
-<hr>
+:palm_tree: Outside of work I enjoy reading, spending time outdoors, playing video games, and spening time with family. 
 
-### Hobbies
+:book: I love reading, and fantasy is one of my favorite genre. Currently, I'm going down the Cosmere rabbit hole from Brandon Sanderson.
 
-- Coding 
-- Running 
-- Camping
-- Hiking
-- Fishing
-- Hunting
-- Martial Arts
+I have a [blog](https://andrewrady.github.io/) where I write about different side projects and what I've learned from them. 
+I have also contributed to [RIMdev](https://rimdev.io/authors/andrew-rady/) blog where I have mainly wrote about my front end work.
 
 <hr>
 
 ### How to reach me
 You can catch me at my [twitter](https://twitter.com/nodevemberJS), or send me an [email](andrew.arsoftware@gmail.com).
-<!--
-**andrewrady/andrewrady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
