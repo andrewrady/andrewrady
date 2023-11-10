@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 :rocket: My name is Andrew Rady, [@nodevemberJS](https://twitter.com/nodevemberJS) on Twitter. I'm a software engineer who enjoys building application to solve business and people problems.
-I primarly work with C#, Typescript, and have experience in Azure here at RItter Insurance Marketing. 
+I primarily work with C#, Typescript, and have experience in Azure here at RItter Insurance Marketing. 
 
-:microscope: My main personal project is to build a workable development enviornment for C# in Neovim. I'll be documenting the setup in my blog.
+:microscope: My main personal project is to build a workable development environment for C# in Neovim. I'll be documenting the setup in my blog.
 
-:palm_tree: Outside of work I enjoy reading, spending time outdoors, playing video games, and spening time with family. 
+:palm_tree: Outside of work I enjoy reading, spending time outdoors, playing video games, and spending time with family. 
 
 :book: I love reading, and fantasy is one of my favorite genre. Currently, I'm going down the Cosmere rabbit hole from Brandon Sanderson.
 
