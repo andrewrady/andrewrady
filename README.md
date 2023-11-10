@@ -5,7 +5,7 @@ I primarily work with C#, Typescript, and have experience in Azure here at RItte
 
 :microscope: My main personal project is to build a workable development environment for C# in Neovim. I'll be documenting the setup in my blog.
 
-:palm_tree: Outside of work I enjoy reading, spending time outdoors, playing video games, and spending time with family. 
+:palm_tree: When not working I enjoy reading, being outdoors, playing video games, and spending time with family. 
 
 :book: I love reading, and fantasy is one of my favorite genre. Currently, I'm going down the Cosmere rabbit hole from Brandon Sanderson.
 
